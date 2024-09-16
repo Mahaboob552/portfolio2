@@ -135,21 +135,23 @@ home-content h1{
 }
 .textindent{
     text-indent: 100px;
+    font-size: 20px;
 
 }
 .special{
     color: orangered;
 }
 h1{
-    font-size: 25px;
+    font-size: 35px;
 
 }
 img{
     margin-top: 0px;
-    border-radius: 150px;
+    border-radius: 200px;
     float: right;
     margin-right: 200px;
 }
 .letterspacing{
     letter-spacing: 5px;
 }
+   
